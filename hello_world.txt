@@ -1,1 +1,2 @@
 Some text to it.
+One more edit to test commit message settings.
